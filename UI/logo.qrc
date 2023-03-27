@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>sendicon.png</file>
+    <file>ggtwhite.png</file>
+  </qresource>
+</RCC>
