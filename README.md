@@ -1,2 +1,5 @@
-# design
-Dizayn hissələrinin yer aldığı repo 
+# Cansat Competition > Design
+
+Repoda olanlar;
+• 3D model
+• Grafik hissələr
